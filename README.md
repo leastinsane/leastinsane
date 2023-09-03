@@ -17,11 +17,13 @@ Currently as of now, i am still progressing to learn these languages:
 - Python
 - C++
 - Java
+- Javascript
 
 And i'm also looking to learn more about:
 - HTML
 - CSS
 - XML
+- Web Developing
 - Internet and it's connections in general
 
 If you have any learning resources associated to those (if possible, free resources), please do contact me
