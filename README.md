@@ -32,7 +32,7 @@ If you have any learning resources associated to those (if possible, free resour
 ## Now come forth...
 For now, you can contact me via:
 - Email: panzerschreksgd@gmail.com
-- Reddit: u/p4nzrekt
+- Reddit: (u/p4nzrekt)[Reddit.com/user/p4nzrekt]
 
 <!---
 leastinsane/leastinsane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
