@@ -25,12 +25,14 @@ And i'm also looking to learn more about:
 - XML
 - Web Developing
 - Internet and it's connections in general
+- Telecommunications
 
 If you have any learning resources associated to those (if possible, free resources), please do contact me
 
 ## Now come forth...
 For now, you can contact me via:
 - Email: panzerschreksgd@gmail.com
+- Reddit: u/p4nzrekt
 
 <!---
 leastinsane/leastinsane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
