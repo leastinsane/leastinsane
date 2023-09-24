@@ -1,9 +1,11 @@
-# Ah a visitor?
-Welcome and hello, i am @leastinsane, a junior programmer and artist who just started using github and still trying to figure out everything to be a good developer whether it's in the web or your computer.
+# -> Ah a visitor? <-
+-> *Welcome and hello, i am @leastinsane, a junior programmer and artist* <-
+
+I just started using github and is still trying to figure out everything to be a good engineer, developer, or a helper whether it's in the web or your computer.
 
 ## I've slept long enough...
 I started to know about github since 2019 (from memes), only created an account (this one) by 2023.
-Mostly it was due to the fact that i know a little bit of Civ VI modding and i am interested in ~~copyin-~~ i mean developing a program or a website to channel my insanity.
+Mostly it was due to Civ VI modding and i am interested in copyin- i mean developing a program or a website to channel my insanity.
 
 ## Long since forgotten my name...
 Albeit all of this, i am currently interested in anime (artstyle) and has learned to draw in that artstyle.
