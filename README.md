@@ -1,5 +1,10 @@
-# -> Ah a visitor? <-
--> *Welcome and hello, i am @leastinsane, a junior programmer and artist* <-
+<div style='text-align: center;'>
+
+# Ah a visitor?
+
+*Welcome and hello, i am @leastinsane, a junior programmer and artist*
+
+</div>
 
 I just started using github and is still trying to figure out everything to be a good engineer, developer, or a helper whether it's in the web or your computer.
 
