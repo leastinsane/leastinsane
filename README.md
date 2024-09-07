@@ -2,44 +2,29 @@
 
 # Ah a visitor?
 
-*Welcome and hello, i am @leastinsane, a junior programmer and artist*
+***Welcome and hello, i am @leastinsane<br>**
+your ordinary artist and programmer (or programmar since it's broken in line 212)*
 
 </div>
 
-I just started using github and is still trying to figure out everything to be a good engineer, developer, or a helper whether it's in the web or your computer.
+## 💫 About Me:
+Beginner ***Software/Telecommunication Engineer/Digital Illustrator*** and pretty much that's it<br>
+Currently Working On: ***Integrated Chat and Note-taking application*** ~~*(with Ai because you know that)*~~ & Ethical Machine/Deep Learning<br>
+Interested In: ***Worldwide Network Efficiency and Security, Website Making, Ethical AI/ML,*** Digital Arts, SaaS, IOT/ICT
 
-## I've slept long enough...
-I started to know about github since 2019 (from memes), only created an account (this one) by 2023.
-Mostly it was due to Civ VI modding and i am interested in copyin- i mean developing a program or a website to channel my insanity.
+## 💻 Currently Learning:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-## Long since forgotten my name...
-Albeit all of this, i am currently interested in anime (artstyle) and has learned to draw in that artstyle.
+Mainly working on ***Python, R, Elixir, and Erlang,*** or in short, wish me luck 💀💀💀
 
-Learned a bit of copywriting, typography, and UI/UX although i only have a surface understanding as of now, but it is fun indeed.
-
-Also if you have ever seen any of my copypasta in reddit, i am sorry, but that is what makes me alive.
-
-## I'm curious about your skills...
-Currently as of now, i am still progressing to learn these languages:
-- Python
-- C++
-- Java
-- Javascript
-
-And i'm also looking to learn more about:
-- HTML
-- CSS
-- XML
-- Web Developing
-- Internet and it's connections in general
-- Telecommunications
-
-If you have any learning resources associated to those (if possible, free resources), please do contact me
+## Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@panzerschrekt) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Quillp4n) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/p4nzrekt) 
+You can find more of my **activities** *there*
 
 ## Now come forth...
-For now, you can contact me via:
+For now, you can **contact me** *via*:
 - Email: panzerschreksgd@gmail.com
-- Reddit: Reddit.com/user/p4nzrekt
+- Reddit: Reddit.com/user/p4nzrekt (not as active)
 
 <!---
 leastinsane/leastinsane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
